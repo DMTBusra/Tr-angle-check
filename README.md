@@ -1,1 +1,1 @@
-# Tr-angle-check
+# Triangle-check
